@@ -1,1 +1,1 @@
-# c-These are some of the projects I have worked independently.
+# c++-These are some of the projects I have worked independently.
