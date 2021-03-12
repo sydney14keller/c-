@@ -1,0 +1,72 @@
+                2020 World Championship Statistics
+--------------------------------------------------------------------------------
+          Rider Name       Number       Points     Position
+--------------------------------------------------------------------------------
+      Marquez Marc :           93         321           1
+
+  Dovizioso Andrea :            4         245           2
+
+   Rossi Valentino :           46         198           3
+
+  Vinales Maverick :           12         193           4
+
+     sydney keller :           11         199           5
+
+
+
+RIDERS
+------------------------------
+Marquez Marc   
+------------------------------
+Make : Honda          
+Nation : Spain          
+Postition : 1              
+Points : 321            
+
+
+
+
+------------------------------
+Dovizioso Andrea
+------------------------------
+Make : Ducati         
+Nation : Italy          
+Postition : 2              
+Points : 245            
+
+
+
+
+------------------------------
+Rossi Valentino
+------------------------------
+Make : Yamaha         
+Nation : Italy          
+Postition : 3              
+Points : 198            
+
+
+
+
+------------------------------
+Vinales Maverick
+------------------------------
+Make : Yamaha         
+Nation : Spain          
+Postition : 4              
+Points : 193            
+
+
+
+
+------------------------------
+sydney keller  
+------------------------------
+Make : Yeee           
+Nation : Bama           
+Postition : 5              
+Points : 199            
+
+
+
+
